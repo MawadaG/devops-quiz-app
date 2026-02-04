@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+select {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+#questionArea {
+    margin: 20px 0;
+}
+
+#optionsArea button {
+    display: block;
+    margin: 8px auto;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+#feedbackArea {
+    margin-top: 20px;
+    font-weight: bold;
+}

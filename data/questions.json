@@ -89,6 +89,71 @@
       ],
       "answerIndex": 0,
       "explanation": "Jira is widely used for planning and tracking work."
+    },
+    {
+      "id": "Q8",
+      "topic": "Continuous Integration",
+      "question": "What is the primary goal of Continuous Integration?",
+      "options": [
+        "Automatically deploy to production",
+        "Frequently integrate code changes into a shared repository",
+        "Eliminate the need for testing",
+        "Remove the need for branches"
+      ],
+      "answerIndex": 1,
+      "explanation": "CI helps detect integration issues early by frequent merging."
+    },
+    {
+      "id": "Q9",
+      "topic": "Continuous Integration",
+      "question": "Which tool is commonly used for CI?",
+      "options": [
+        "Jenkins",
+        "Terraform",
+        "Ansible",
+        "Prometheus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Jenkins is a popular CI automation tool."
+    },
+    {
+      "id": "Q10",
+      "topic": "Continuous Integration",
+      "question": "What typically triggers a CI pipeline?",
+      "options": [
+        "Server reboot",
+        "Code commit",
+        "Manual approval",
+        "System shutdown"
+      ],
+      "answerIndex": 1,
+      "explanation": "CI pipelines usually run when code is committed."
+    },
+    {
+      "id": "Q11",
+      "topic": "Continuous Delivery",
+      "question": "What does Continuous Delivery ensure?",
+      "options": [
+        "Code is always ready for production release",
+        "Code is deployed automatically without approval",
+        "Testing is skipped",
+        "Infrastructure is unmanaged"
+      ],
+      "answerIndex": 0,
+      "explanation": "CD ensures software is always in a deployable state."
+    },
+    {
+      "id": "Q12",
+      "topic": "Continuous Deployment",
+      "question": "How is Continuous Deployment different from Continuous Delivery?",
+      "options": [
+        "It requires manual deployment",
+        "It deploys every change automatically",
+        "It skips CI",
+        "It removes testing"
+      ],
+      "answerIndex": 1,
+      "explanation": "Continuous Deployment automatically deploys every successful change."
     }
   ]
   

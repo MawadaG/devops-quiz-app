@@ -1,0 +1,94 @@
+[
+    {
+      "id": "Q1",
+      "topic": "DevOps Culture",
+      "question": "What is the main goal of DevOps culture?",
+      "options": [
+        "Increase silos between teams",
+        "Improve collaboration between development and operations",
+        "Replace developers with automation",
+        "Eliminate documentation"
+      ],
+      "answerIndex": 1,
+      "explanation": "DevOps culture focuses on collaboration and shared responsibility."
+    },
+    {
+      "id": "Q2",
+      "topic": "DevOps Culture",
+      "question": "Which value is central to DevOps?",
+      "options": [
+        "Secrecy",
+        "Manual processes",
+        "Continuous improvement",
+        "Isolated teams"
+      ],
+      "answerIndex": 2,
+      "explanation": "Continuous improvement is a core DevOps principle."
+    },
+    {
+      "id": "Q3",
+      "topic": "Version Control Systems",
+      "question": "What is the purpose of a version control system?",
+      "options": [
+        "Store application binaries",
+        "Track and manage code changes",
+        "Deploy applications automatically",
+        "Monitor server performance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Version control systems help track code history and collaboration."
+    },
+    {
+      "id": "Q4",
+      "topic": "Version Control Systems",
+      "question": "Which tool is commonly used for distributed version control?",
+      "options": [
+        "Jenkins",
+        "Docker",
+        "Git",
+        "Ansible"
+      ],
+      "answerIndex": 2,
+      "explanation": "Git is a popular distributed version control system."
+    },
+    {
+      "id": "Q5",
+      "topic": "Version Control Systems",
+      "question": "What does a Git branch represent?",
+      "options": [
+        "A copy of the repository for experimentation",
+        "A backup of the main branch",
+        "A deleted version of code",
+        "A deployment pipeline"
+      ],
+      "answerIndex": 0,
+      "explanation": "Branches allow isolated development without affecting main code."
+    },
+    {
+      "id": "Q6",
+      "topic": "Plan with DevOps",
+      "question": "Why is planning important in DevOps?",
+      "options": [
+        "To avoid automation",
+        "To align development with business goals",
+        "To delay releases",
+        "To remove feedback loops"
+      ],
+      "answerIndex": 1,
+      "explanation": "Planning ensures DevOps activities support business objectives."
+    },
+    {
+      "id": "Q7",
+      "topic": "Plan with DevOps",
+      "question": "Which tool is commonly used for DevOps planning?",
+      "options": [
+        "Jira",
+        "Docker",
+        "Kubernetes",
+        "Nginx"
+      ],
+      "answerIndex": 0,
+      "explanation": "Jira is widely used for planning and tracking work."
+    }
+  ]
+  

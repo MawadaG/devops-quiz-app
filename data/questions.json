@@ -1,0 +1,263 @@
+[
+    {
+      "id": "Q1",
+      "topic": "DevOps Culture",
+      "question": "What is the main goal of DevOps culture?",
+      "options": [
+        "Increase silos between teams",
+        "Improve collaboration between development and operations",
+        "Replace developers with automation",
+        "Eliminate documentation"
+      ],
+      "answerIndex": 1,
+      "explanation": "DevOps culture focuses on collaboration and shared responsibility."
+    },
+    {
+      "id": "Q2",
+      "topic": "DevOps Culture",
+      "question": "Which value is central to DevOps?",
+      "options": [
+        "Secrecy",
+        "Manual processes",
+        "Continuous improvement",
+        "Isolated teams"
+      ],
+      "answerIndex": 2,
+      "explanation": "Continuous improvement is a core DevOps principle."
+    },
+    {
+      "id": "Q3",
+      "topic": "Version Control Systems",
+      "question": "What is the purpose of a version control system?",
+      "options": [
+        "Store application binaries",
+        "Track and manage code changes",
+        "Deploy applications automatically",
+        "Monitor server performance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Version control systems help track code history and collaboration."
+    },
+    {
+      "id": "Q4",
+      "topic": "Version Control Systems",
+      "question": "Which tool is commonly used for distributed version control?",
+      "options": [
+        "Jenkins",
+        "Docker",
+        "Git",
+        "Ansible"
+      ],
+      "answerIndex": 2,
+      "explanation": "Git is a popular distributed version control system."
+    },
+    {
+      "id": "Q5",
+      "topic": "Version Control Systems",
+      "question": "What does a Git branch represent?",
+      "options": [
+        "A copy of the repository for experimentation",
+        "A backup of the main branch",
+        "A deleted version of code",
+        "A deployment pipeline"
+      ],
+      "answerIndex": 0,
+      "explanation": "Branches allow isolated development without affecting main code."
+    },
+    {
+      "id": "Q6",
+      "topic": "Plan with DevOps",
+      "question": "Why is planning important in DevOps?",
+      "options": [
+        "To avoid automation",
+        "To align development with business goals",
+        "To delay releases",
+        "To remove feedback loops"
+      ],
+      "answerIndex": 1,
+      "explanation": "Planning ensures DevOps activities support business objectives."
+    },
+    {
+      "id": "Q7",
+      "topic": "Plan with DevOps",
+      "question": "Which tool is commonly used for DevOps planning?",
+      "options": [
+        "Jira",
+        "Docker",
+        "Kubernetes",
+        "Nginx"
+      ],
+      "answerIndex": 0,
+      "explanation": "Jira is widely used for planning and tracking work."
+    },
+    {
+      "id": "Q8",
+      "topic": "Continuous Integration",
+      "question": "What is the primary goal of Continuous Integration?",
+      "options": [
+        "Automatically deploy to production",
+        "Frequently integrate code changes into a shared repository",
+        "Eliminate the need for testing",
+        "Remove the need for branches"
+      ],
+      "answerIndex": 1,
+      "explanation": "CI helps detect integration issues early by frequent merging."
+    },
+    {
+      "id": "Q9",
+      "topic": "Continuous Integration",
+      "question": "Which tool is commonly used for CI?",
+      "options": [
+        "Jenkins",
+        "Terraform",
+        "Ansible",
+        "Prometheus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Jenkins is a popular CI automation tool."
+    },
+    {
+      "id": "Q10",
+      "topic": "Continuous Integration",
+      "question": "What typically triggers a CI pipeline?",
+      "options": [
+        "Server reboot",
+        "Code commit",
+        "Manual approval",
+        "System shutdown"
+      ],
+      "answerIndex": 1,
+      "explanation": "CI pipelines usually run when code is committed."
+    },
+    {
+      "id": "Q11",
+      "topic": "Continuous Delivery",
+      "question": "What does Continuous Delivery ensure?",
+      "options": [
+        "Code is always ready for production release",
+        "Code is deployed automatically without approval",
+        "Testing is skipped",
+        "Infrastructure is unmanaged"
+      ],
+      "answerIndex": 0,
+      "explanation": "CD ensures software is always in a deployable state."
+    },
+    {
+      "id": "Q12",
+      "topic": "Continuous Deployment",
+      "question": "How is Continuous Deployment different from Continuous Delivery?",
+      "options": [
+        "It requires manual deployment",
+        "It deploys every change automatically",
+        "It skips CI",
+        "It removes testing"
+      ],
+      "answerIndex": 1,
+      "explanation": "Continuous Deployment automatically deploys every successful change."
+    },
+    {
+      "id": "Q13",
+      "topic": "Infrastructure as Code",
+      "question": "What is Infrastructure as Code?",
+      "options": [
+        "Manual server configuration",
+        "Managing infrastructure using code",
+        "Writing application code",
+        "Monitoring systems"
+      ],
+      "answerIndex": 1,
+      "explanation": "IaC manages infrastructure through machine-readable code."
+    },
+    {
+      "id": "Q14",
+      "topic": "Infrastructure as Code",
+      "question": "Which tool is commonly used for Infrastructure as Code?",
+      "options": [
+        "Terraform",
+        "Jenkins",
+        "Git",
+        "Slack"
+      ],
+      "answerIndex": 0,
+      "explanation": "Terraform is widely used for Infrastructure as Code."
+    },
+    {
+      "id": "Q15",
+      "topic": "Infrastructure as Code",
+      "question": "What is a key benefit of IaC?",
+      "options": [
+        "Increased manual effort",
+        "Repeatable and consistent environments",
+        "Slower deployments",
+        "Less documentation"
+      ],
+      "answerIndex": 1,
+      "explanation": "IaC ensures consistency and repeatability."
+    },
+    {
+      "id": "Q16",
+      "topic": "DevOps Culture",
+      "question": "What role does feedback play in DevOps?",
+      "options": [
+        "It slows down development",
+        "It improves learning and quality",
+        "It replaces testing",
+        "It removes planning"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fast feedback helps teams improve continuously."
+    },
+    {
+      "id": "Q17",
+      "topic": "Version Control Systems",
+      "question": "What does 'commit' mean in Git?",
+      "options": [
+        "Delete code",
+        "Save changes with a message",
+        "Push code to production",
+        "Merge branches"
+      ],
+      "answerIndex": 1,
+      "explanation": "A commit records changes with a descriptive message."
+    },
+    {
+      "id": "Q18",
+      "topic": "Continuous Integration",
+      "question": "Why are automated tests important in CI?",
+      "options": [
+        "They slow builds",
+        "They detect issues early",
+        "They replace developers",
+        "They remove version control"
+      ],
+      "answerIndex": 1,
+      "explanation": "Automated tests help catch bugs early."
+    },
+    {
+      "id": "Q19",
+      "topic": "Continuous Delivery",
+      "question": "What is a deployment pipeline?",
+      "options": [
+        "A manual checklist",
+        "A sequence of automated steps to release software",
+        "A server log",
+        "A version control branch"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pipelines automate build, test, and release steps."
+    },
+    {
+      "id": "Q20",
+      "topic": "Plan with DevOps",
+      "question": "What is backlog refinement?",
+      "options": [
+        "Deleting old tasks",
+        "Improving clarity and priority of work items",
+        "Stopping development",
+        "Deploying code"
+      ],
+      "answerIndex": 1,
+      "explanation": "Backlog refinement keeps work items clear and prioritized."
+    }
+  ]
+  

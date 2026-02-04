@@ -23,3 +23,17 @@ function loadTopics() {
         topicSelect.appendChild(option);
     });
 }
+function checkAnswer(selectedIndex) {
+    const feedbackText = document.getElementById("feedbackText");
+    const explanationText = document.getElementById("explanationText");
+
+    const currentQuestion = filteredQuestions[currentQuestionIndex];
+
+    if (selectedIndex === currentQuestion.answerIndex) {
+        feedbackText.textContent = "Correct!";
+    } else {
+        feedbackText.textContent = "Wrong!";
+    }
+
+    explanationText.textContent = currentQuestion.explanation;
+}

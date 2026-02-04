@@ -11,3 +11,5 @@ Each quiz question is stored in `questions.json` using the following structure:
   "answerIndex": 1,
   "explanation": "Explanation of the correct answer"
 }
+
+There are multiple diffrenet topics to chosses from.

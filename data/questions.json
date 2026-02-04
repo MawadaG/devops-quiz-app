@@ -154,6 +154,110 @@
       ],
       "answerIndex": 1,
       "explanation": "Continuous Deployment automatically deploys every successful change."
+    },
+    {
+      "id": "Q13",
+      "topic": "Infrastructure as Code",
+      "question": "What is Infrastructure as Code?",
+      "options": [
+        "Manual server configuration",
+        "Managing infrastructure using code",
+        "Writing application code",
+        "Monitoring systems"
+      ],
+      "answerIndex": 1,
+      "explanation": "IaC manages infrastructure through machine-readable code."
+    },
+    {
+      "id": "Q14",
+      "topic": "Infrastructure as Code",
+      "question": "Which tool is commonly used for Infrastructure as Code?",
+      "options": [
+        "Terraform",
+        "Jenkins",
+        "Git",
+        "Slack"
+      ],
+      "answerIndex": 0,
+      "explanation": "Terraform is widely used for Infrastructure as Code."
+    },
+    {
+      "id": "Q15",
+      "topic": "Infrastructure as Code",
+      "question": "What is a key benefit of IaC?",
+      "options": [
+        "Increased manual effort",
+        "Repeatable and consistent environments",
+        "Slower deployments",
+        "Less documentation"
+      ],
+      "answerIndex": 1,
+      "explanation": "IaC ensures consistency and repeatability."
+    },
+    {
+      "id": "Q16",
+      "topic": "DevOps Culture",
+      "question": "What role does feedback play in DevOps?",
+      "options": [
+        "It slows down development",
+        "It improves learning and quality",
+        "It replaces testing",
+        "It removes planning"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fast feedback helps teams improve continuously."
+    },
+    {
+      "id": "Q17",
+      "topic": "Version Control Systems",
+      "question": "What does 'commit' mean in Git?",
+      "options": [
+        "Delete code",
+        "Save changes with a message",
+        "Push code to production",
+        "Merge branches"
+      ],
+      "answerIndex": 1,
+      "explanation": "A commit records changes with a descriptive message."
+    },
+    {
+      "id": "Q18",
+      "topic": "Continuous Integration",
+      "question": "Why are automated tests important in CI?",
+      "options": [
+        "They slow builds",
+        "They detect issues early",
+        "They replace developers",
+        "They remove version control"
+      ],
+      "answerIndex": 1,
+      "explanation": "Automated tests help catch bugs early."
+    },
+    {
+      "id": "Q19",
+      "topic": "Continuous Delivery",
+      "question": "What is a deployment pipeline?",
+      "options": [
+        "A manual checklist",
+        "A sequence of automated steps to release software",
+        "A server log",
+        "A version control branch"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pipelines automate build, test, and release steps."
+    },
+    {
+      "id": "Q20",
+      "topic": "Plan with DevOps",
+      "question": "What is backlog refinement?",
+      "options": [
+        "Deleting old tasks",
+        "Improving clarity and priority of work items",
+        "Stopping development",
+        "Deploying code"
+      ],
+      "answerIndex": 1,
+      "explanation": "Backlog refinement keeps work items clear and prioritized."
     }
   ]
   
